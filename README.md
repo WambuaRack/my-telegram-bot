@@ -23,4 +23,8 @@ These instructions will help you set up and run the bot on your local machine fo
 1. Clone the repository:
    ```bash
    git clone github.com/WambuaRack/my-telegram-bot
-   cd tech-learning-bot
+   cd my-telegram-bot
+
+2. Clone the repository:
+      try it   https://t.me/rackwambus1_bot
+
