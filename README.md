@@ -1,4 +1,4 @@
-# Tech Learning Bot
+# Tech Learning Bot for me
 
 Tech Learning Bot is a Telegram bot designed to help users find learning resources for various computer science and tech topics. The bot provides links to both free and paid courses on platforms such as Coursera, edX, Udemy, DataCamp, and more.
 
